@@ -4,6 +4,7 @@ namespace Shield\Testing;
 
 use Illuminate\Http\Request;
 use Orchestra\Testbench\TestCase as TestBench;
+use Shield\Shield\Providers\ShieldServiceProvider;
 
 /**
  * Class TestCase
